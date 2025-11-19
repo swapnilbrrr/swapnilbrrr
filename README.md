@@ -29,7 +29,7 @@
 ---
 
 ## 💻 Featured Projects
-- [**Port-Scan-Detector**](https://github.com/swapnilbrrr/PortScan-Detector): Python SOC project simulating port scanning and logging analysis.
+- [**PortScan-Detector**](https://github.com/swapnilbrrr/PortScan-Detector): Python SOC project simulating port scanning and logging analysis.
 - [**Kali Linux Home Lab**](#): Virtualized environment to analyze network traffic, reconnaissance patterns, and anomalies.
 - [**LetsDefend Simulations**](#): Web Shell Detection, Brute Force Attempts, Malware Infection — incident triage practice.
 
