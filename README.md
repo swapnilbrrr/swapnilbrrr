@@ -7,26 +7,30 @@
 
 <div align="center">
 
+<picture>
+  <img alt="SSH Banner" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=10&section=header"/>
+</picture>
+
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║  SSH-2.0-OpenSSH_9.3   Protocol: 2.0                                  ║
-║                                                                       ║
-║  Authenticating to github.com:swapnilbrrr...                          ║
-║  PTY allocation request succeeded on channel 0                        ║
-║  Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-37-generic x86_64)   ║
-║                                                                       ║
-║   ███████╗██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗██╗                 ║
-║   ██╔════╝██║    ██║██╔══██╗██╔══██╗████╗  ██║██║██║                 ║
-║   ███████╗██║ █╗ ██║███████║██████╔╝██╔██╗ ██║██║██║                 ║
-║   ╚════██║██║███╗██║██╔══██║██╔═══╝ ██║╚██╗██║██║██║                 ║
-║   ███████║╚███╔███╔╝██║  ██║██║     ██║ ╚████║██║███████╗            ║
-║   ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═══╝╚═╝╚══════╝           ║
-║                                                                       ║
-║   Last login: Today from Kathmandu, Nepal  [172.16.0.1]               ║
-║   System: All threats neutralized. Lab: ACTIVE. Coffee: LOW.          ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════════════════════╗
+  ║                                                                       ║
+  ║   SSH-2.0-OpenSSH_9.3   Protocol: 2.0                                 ║
+  ║                                                                       ║
+  ║   Authenticating to github.com:swapnilbrrr...                         ║
+  ║   PTY allocation request succeeded on channel 0                       ║
+  ║   Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-37-generic x86_64)  ║
+  ║                                                                       ║
+  ║   ███████╗██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗██╗                 ║
+  ║   ██╔════╝██║    ██║██╔══██╗██╔══██╗████╗  ██║██║██║                 ║
+  ║   ███████╗██║ █╗ ██║███████║██████╔╝██╔██╗ ██║██║██║                 ║
+  ║   ╚════██║██║███╗██║██╔══██║██╔═══╝ ██║╚██╗██║██║██║                 ║
+  ║   ███████║╚███╔███╔╝██║  ██║██║     ██║ ╚████║██║███████╗            ║
+  ║   ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═══╝╚═╝╚══════╝           ║
+  ║                                                                       ║
+  ║   Last login: Today from Kathmandu, Nepal  [172.16.0.1]               ║
+  ║   System: All threats neutralized. Lab: ACTIVE. Coffee: LOW. ☕       ║
+  ║                                                                       ║
+  ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=750&lines=┌──(swapnil㉿soc-lab)-[~]&nbsp;%24+whoami;🛡️+SOC+Analyst+%7C+Blue+Teamer+%7C+Threat+Hunter;┌──(swapnil㉿soc-lab)-[~]&nbsp;%24+cat+status.txt;🟢+OPEN+TO+WORK+—+TIER+1+%2F+TIER+2+SOC+ROLES;┌──(swapnil㉿soc-lab)-[~]&nbsp;%24+nmap+-sV+swapnil.local;🔍+Scanning...+Skills+Detected.+No+Vulnerabilities+Found.)](https://git.io/typing-svg)
@@ -308,7 +312,7 @@ SIEM DASHBOARD — LetsDefend SOC Platform
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=swapnilbrrr&theme=matrix&no-bg=true&no-frame=true&column=7)](https://github.com/swapnilbrrr)
+[![trophy](https://github-profile-trophy.vercel.app/?username=swapnilbrrr&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/swapnilbrrr)
 
 <br/>
 
@@ -372,18 +376,26 @@ SIEM DASHBOARD — LetsDefend SOC Platform
 
 <br/>
 
+---
+
 ```
-┌──(swapnil㉿soc-lab)-[~] $ echo "The best time to plant a tree was 20 years ago."
-The best time to plant a tree was 20 years ago.
+┌──(swapnil㉿soc-lab)-[~] $ systemctl status swapnil.service
 
-┌──(swapnil㉿soc-lab)-[~] $ echo "The second best time is now."
-The second best time is now.
+● swapnil.service — SOC Analyst | Cyber Defender
+     Loaded: loaded (/etc/systemd/swapnil.conf; enabled)
+     Active: 🟢 active (running) since always
+    Process: Threat hunting, alert triage, lab grinding
+   Main PID: 1337
+      Tasks: ∞ (learning never stops)
+     CGroup: /defender/swapnil
 
-┌──(swapnil㉿soc-lab)-[~] $ █
+Mar 12 00:00:00 soc-lab swapnil[1337]: Lab is ACTIVE. Mind is SHARP.
+Mar 12 00:00:00 soc-lab swapnil[1337]: Certs loading... CompTIA Security+ 🔄
+Mar 12 00:00:00 soc-lab swapnil[1337]: Status: READY TO DEFEND YOUR NETWORK. ✅
 ```
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Defend.+Detect.+Respond.&fontColor=00FF41&fontSize=20&fontAlignY=70&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003300,100:00ff41&height=160&section=footer&text=Defend.%20Detect.%20Respond.&fontColor=00FF41&fontSize=26&fontAlignY=55&desc=Swapnil%20Katuwal%20%7C%20Kathmandu%2C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5%20%7C%20Open%20to%20SOC%20Roles&descAlignY=78&descSize=14&descColor=aaffaa&animation=fadeIn)
 
 </div>
