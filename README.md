@@ -363,7 +363,7 @@ SIEM DASHBOARD — LetsDefend SOC Platform
 │                                                                      │
 │   Ping statistics: 4 sent, 4 received, 0% loss. Host is ALIVE. ✅   │
 │                                                                      │
-│   > Available for: SOC Analyst Tier 1 / Tier 2                       │
+│   > Available for: SOC Analyst Tier 1                        │
 │   > Available for: Junior Security Analyst                           │
 │   > Available for: Security Operations Internship                    │
 │                                                                      │
